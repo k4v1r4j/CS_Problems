@@ -1,4 +1,8 @@
 My_Works
 ========
 
-Utilities and programs
+Utilities and programs:
+======================
+
+This repository contains programs that solve some of the basic and interesting problems of computer science.
+
