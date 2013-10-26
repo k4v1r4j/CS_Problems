@@ -1,5 +1,0 @@
-#define N 10000000
-int a[1+N/32];
-void set(int i) {
-  
-}

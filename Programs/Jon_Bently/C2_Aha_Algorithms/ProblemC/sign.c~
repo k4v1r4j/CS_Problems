@@ -1,120 +1,0 @@
-<return><backspace> 0x8000078cre<tab><tab><tab><backspace><backspace><backspace>fil<tab>e<tab><tab>cr<tab><tab><backspace><backspace><backspace><backspace><backspace><backspace><backspace>si<return>yyes<return><backspace>#include<i<backspace>stdio.h>
-#include<stdlib.h 0x400002e>J<backspace>
-int a<backspace>main() 0x2000020{
-}
-
-#define MAXCOUNT 100char sign[MAXCOUNT],word[MAXCOUNT]; 0x200000aWHILE<backspace><backspace><backspace><backspace><backspace>e<backspace>while(scanf("%s",%s<backspace><backspace>"%s"<backspace><backspace><backspace><backspace>)<backspace><backspace>,word)!=EOF) {
-}
-strcpy(word,sign);
-qsort(w<backspace>sign,strlen(sign),sizeof(char*),comp);
-printf("%s %s",sign,word);
-#include<string.h>j<backspace>
-
-int comp(int<backspace><backspace><backspace>char *a,char 8<backspace>*b){
-}
-return *a=<backspace>-*b;
-return 0;voidconst const voidchar()<backspace><backspace>)(*(char*)**( 0x400002f 0x400002f 0x400002f 0x400002f 0x400002f 0x8000074 0x400002f 0x8000074 0x400002fsign,word\nsq<return>#include<stdio.h>
-#include<stdlib><backspace>.h 0x400002e>
-#include<string.h>
-
-#define MAX 100;<backspace>
-
-int main() 0x2000020{
-}
-char word[MAX],sig[A<backspace>MAX],OLD<backspace><backspace><backspace>oldsig[MAX]; 0x200000a 0x2000018 0x2000013while(scanf("%s%s%s",<backspace><backspace><backspace><backspace>",sig,word(<backspace>)!=<tab>eo<backspace><backspace><backspace>=EOF()<backspace><backspace>){
-}
-
-strcpy(odl<backspace><backspace>ls<backspace>dsig,"");if(oldsi<backspace><backspace><backspace><backspace><backspace>strcmp(od<backspace>ldsign,<backspace><backspace><backspace>g,sig)!=0 && I<backspace>I<backspace>LINE<backspace><backspace><backspace><backspace>linenumb) {
-}
-printf("\n");
-int linnu<backspace><backspace>enumb=0;
-strcpu(<backspace><backspace>y(oldsig<backspace><backspace><backspace><backspace><backspace><backspace>l<backspace>oldsig,sig);
-linenumb++;
-printf("%s %<backspace><backspace> ",word);
-printf("\n");
-return 0;<help-echo><help-echo><help-echo><help-echo><down-mouse-1><mouse-1><backspace><return>#include<iostream 0x400002e
-?<backspace>>
-#include<cstdlib.<backspace>>
-#include<<backspace><backspace><backspace><backspace><backspace><backspace><backspace><backspace><backspace>
-using namespace st;<backspace>d;
-
-int main() {
-}
-#include<st<backspace>et>
-#include<map 0x400002e>
-#include<algorithm>
-#include<utility>
-<tab>
-vector<string> find_anagrams(vector<string>dic<backspace><backspace><backspace>& dix<backspace>ct,sri<backspace><backspace>tring word) {
-}
-multipa<backspace><backspace>map<s<backspace>string,string> dict_sign<backspace>;
-d<backspace>for(int i=0;i<i<backspace>dict.size();i++) {
-}
-dict_sig.insert<backspace><backspace><backspace><backspace><backspace><backspace><backspace><backspace><backspace><backspace><backspace><backspace><backspace><backspace><backspace>string sig;
-sig=dict[i];
-sort(sig.begin(),sig.end());
-dict_sig.insert(make_pair(<backspace><backspace><backspace><backspace><backspace><backspace><backspace><backspace><backspace><backspace>make<backspace><backspace><backspace><backspace>pair<strin,<backspace>g,string>(sig,dict[<backspace>[i]));
-pair<multimap<string><backspace>,string>::iterator,multimap<string,string>::iterator> <backspace> range;
-range=s<backspace>dict_sig.fine<backspace>d<backspace><backspace><backspace><backspace>equal_range(word):<backspace>;
-for<backspace><backspace><backspace>multimap<string,string>::iterator it;
-for(it=range.first;it!=range.second;it++) {
-}
-
-vecor<backspace><backspace>tor<stt<backspace>ring>result;result.push_back(it->second):<backspace>;
-return result;string<backspace><backspace><backspace><backspace><backspace><backspace>vector<string>dict;
-while(cin>><backspace><backspace><backspace><backspace><backspace><backspace><backspace><backspace><backspace><backspace><backspace>string s;
-while(cinn>><backspace><backspace><backspace>>>s) {
-}
-dict.push_back(s);
-vecor<backspace><backspace>tor<string>anagrams;
-anagrams=find_n<backspace>anagram(dict
-#include<fstream 0x400003e 0x400002e> 0x800003e
-ifstream(<backspace> in("in<backspace><backspace>/usr?<backspace>/share/dict/words"<S-return><backspace>,ios::in);
-cin>>wor<backspace><backspace><backspace>s;,word);
-for(int i=0;i<anagrams.sw<backspace>ize();i++) {
-}J<backspace>
-cout<<anagrams[i]<<endl;
-return 0;
-#include<vector>
- 0x8000067 0x800006739<return>s
-sort(word.begin)<backspace>(),word.end());
-cout<<anagrams.szie<backspace><backspace><backspace>ize();<backspace><<endl;"size: "<<<down-mouse-1><mouse-1><up><up><up><up><up><up><up><up><help-echo><help-echo><down-mouse-1><mouse-1><backspace><backspace>scratch.cpp<return><return>#include<iso<backspace><backspace>ostream 0x400002e>
-#include<algorithm>
-
-using namespace std;
-
-int main() 0x2000020{ 0x400003b<backspace>j<backspace>
-
-}
-#n<backspace>include<vector>veco<backspace>tor<int> v;
-int t;
-for(int i=0;i<10;i++) {
-} 0x2000010 0x2000007 0x2000005
-cin>>t;
-v.u<backspace>push_bakc(<backspace><backspace><backspace>ck(t);
-
-acculate(<backspace><backspace><backspace><backspace><backspace><backspace><backspace><backspace><backspace>int ans=accul<backspace>mulate(v.begin(),v.end(),0);
-return 0;
-cout<<ans<<endl;
-#include<utilit><backspace>y>
-#include<numeric><backspace>3<down-mouse-5><mouse-5><down-mouse-1><mouse-1><help-echo><help-echo><help-echo><help-echo><help-echo><help-echo><down-mouse-1><mouse-1>hh#include<iostream>
-#inclu<backspace><backspace><backspace><backspace><backspace><backspace><return>const int N=40;
-
-l<backspace>inline void sum(int &p,int<backspace><backspace><backspace><backspace><backspace>total,int n,int <backspace><backspace><backspace><backspace>vector<int>data) {
-}
-forfor(int i=0;i<data.size();i++) {
-}
-tata<backspace><backspace><backspace>otal+=data[i];
-
-int main() {
-}
-int i=0;
-int accu<backspace><backspace><backspace><backspace>accum<backspace>m=0;
-vector<int> data(N); 0x200000aFOR<backspace><backspace><backspace> 0x2000010 0x2000010 0x2000010 0x2000010<tab>for(int i=0;i<N;i++) {
-}
-data[i]=i;
-sum(accum,N,data);
-cout<<accu<backspace><backspace><backspace><backspace>"sum is <<"<backspace><backspace><backspace>"<<accum<<Endl<backspace><backspace><backspace>e<backspace><backspace>endl;
-return 0;#n<backspace>include<c<backspace>e<backspace>vector>
-
-using a<backspace>nme<backspace><backspace>amespace std;<down-mouse-1><mouse-1><help-echo><help-echo><down-mouse-1><mouse-1><down-mouse-1><drag-mouse-1>h<help-echo><help-echo><help-echo><help-echo><help-echo><help-echo><help-echo><help-echo><help-echo><help-echo><help-echo><help-echo><help-echo><help-echo><help-echo><menu-bar><edit><copy><help-echo><help-echo><help-echo><help-echo><help-echo><help-echo>
